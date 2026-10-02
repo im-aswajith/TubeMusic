@@ -1,0 +1,6 @@
+{
+  "name": "TubeMusic",
+  "description": "Stream, search, and play YouTube music and videos in the background with full music player controls, playlists, queue management, and offline favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
